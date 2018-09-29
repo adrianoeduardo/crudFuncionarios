@@ -29,6 +29,8 @@
         		$res = editarFuncionario($id, $nome, $telefone, $cpf, $funcao);
         		echo $res;
 
+                //teste de upload no git 
+
         	}
         ?>
         <a href="index.php" class="btn btn-primary"> Página Inicial </a> 
